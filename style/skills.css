@@ -1,0 +1,16 @@
+.skills {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: var(--bg-main-second);
+    padding: 60px 0 100px 0;
+    color: var(--color-grey);
+}
+
+.skills__list {
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
